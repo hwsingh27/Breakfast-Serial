@@ -61,11 +61,6 @@ void Hexdump(void *addr, size_t nbytes)
 		  printf("Enter value of length in the range of 0-640 or 0x00 to 0x280\r\n");
 		  return;
 	  }
-	  if(nbytes == NULL)
-	  {
-		  printf("Enter the length\r\n");
-		  return;
-	  }
 
 	  while(temp_addr<maximum)
 	  {
