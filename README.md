@@ -23,8 +23,9 @@ triggers the interrupt which then goes into the handler and dequeues the charact
 __sys_write() and __sys_read() are implemented to link the system input/output commands with it. <br/><br/>
 
 ## Extra Credit
-1) "Help" feature was implemented correctly that shows the information about all the supported commands appear on the screen.
-2) "Info" feature was not implemented due to some errors.
+1) "Help" feature was implemented correctly that shows the information about all the supported commands appear on the screen. <br/>
+2) The function with BACKSPACE key has been implementd and it works according the requirement. <br/>
+3) "Info" feature was not implemented due to some errors. <br/>
 
 
 
