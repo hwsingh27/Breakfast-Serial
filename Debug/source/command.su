@@ -1,0 +1,6 @@
+command.c:35:6:logger	728	static
+command.c:92:13:author_name	16	static
+command.c:105:13:hex	24	static
+command.c:121:13:invalid	16	static
+command.c:135:13:help	16	static
+command.c:157:6:process_command	2096	static
